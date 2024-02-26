@@ -1,1 +1,1 @@
-# TicketEase-Frontend
+TicketEase is a web-based application that streamlines and optimizes the management of task projects. Users can effortlessly create, review, and organize tickets for efficient task tracking. The integrated admin dashboard empowers managers with extensive control over various features, ensuring seamless oversight of the Ticket Management System
